@@ -6,6 +6,7 @@
 <center>
 
 <h1>Aberdeen International Youth Festival</h1>
+<img src="http://www.aiyf.org/images/upload/AIYF%202015/AIYF%20Main%20Design.jpg">
 
 <p>One of the world’s biggest celebrations of youth arts. AIYF brings you the very best in International culture and the performing arts. Theatre, Dance, World Music, Opera, Orchestras & Jazz.</p>
 
